@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCDc3Cdb5c6Bf6D63B858A97583b6534DAcd9aED3",
+  "SCAN_LINK": "https://etherscan.io/token/0xcdc3cdb5c6bf6d63b858a97583b6534dacd9aed3",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "BONSAIROOM",
+  "SYMBOL": "BSR",
+  "MAX_SUPPLY": 111,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 165000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bonsairoom",
+  "SHOW_BACKGROUND": true
+}
